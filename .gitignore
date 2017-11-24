@@ -25,3 +25,4 @@
 /vendors/*
 
 .env
+.idea/*
