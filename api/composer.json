@@ -1,0 +1,20 @@
+{
+    "name": "dexter/taskey",
+    "description": "A restful web service for task managing app",
+    "type": "project",
+    "require": {
+        "slim/slim": "^3.0",
+        "firebase/php-jwt": "5.0",
+        "slim/pdo": "~1.10",
+        "vlucas/phpdotenv": "^2.4",
+        "monolog/monolog": "^1.23"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mir Ayman Ali",
+            "email": "alimirayman@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
